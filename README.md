@@ -1,20 +1,20 @@
 # capstoneassignment
-Syllabus
-Week 1 - Introduction to Capstone Project
-Introduction to Capstone Project
-Location Data Providers
-Signing-up for a Watson Studio Account
-Peer-review Assignment: Capstone Project Notebook
-Week 2 - Foursquare API
-Introduction to Foursquare
-Getting Foursquare API Credentials
-Using Foursquare API
-Lab: Foursquare API
-Quiz: Foursquare API
-Week 3 - Neighborhood Segmentation and Clustering
-Clustering
-Lab: Clustering
-Lab: Segmenting and Clustering Neighborhoods in New York City
-Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
-Week 4 - Capstone Project
-Week 5 - Capstone Project (Cont'd)
+<br>#Syllabus
+<br>Week 1 - Introduction to Capstone Project
+<br>Introduction to Capstone Project
+<br>Location Data Providers
+<br>Signing-up for a Watson Studio Account
+<br>Peer-review Assignment: Capstone Project Notebook
+<br>Week 2 - Foursquare API
+<br>Introduction to Foursquare
+<br>Getting Foursquare API Credentials
+<br>Using Foursquare API
+<br>Lab: Foursquare API
+<br>Quiz: Foursquare API
+<br>Week 3 - Neighborhood Segmentation and Clustering
+<br>Clustering
+<br>Lab: Clustering
+<br>Lab: Segmenting and Clustering Neighborhoods in New York City
+<br>Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
+<br>Week 4 - Capstone Project
+<br>Week 5 - Capstone Project (Cont'd)
