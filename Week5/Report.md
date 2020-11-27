@@ -17,8 +17,8 @@
 <br>**Using K-Means Clustering Approach**<br/>
 ![Image](https://github.com/deepmoss192/capstoneassignment/raw/main/Week5/MouseInc%20184555.png)
 <br>**Most common venues near Neighborhood (With latitude and longitude)** 
-![Image]https://github.com/deepmoss192/capstoneassignment/raw/main/Week5/MouseInc%20190436.png
+![Image](https://github.com/deepmoss192/capstoneassignment/raw/main/Week5/MouseInc%20190436.png)
 ### Conclusion
 <br>Map of Clusters in Etobicoke<br/>
-![Image]https://github.com/deepmoss192/capstoneassignment/raw/main/Week5/MouseInc%20191242.png
+![Image](https://github.com/deepmoss192/capstoneassignment/raw/main/Week5/MouseInc%20191242.png)
 <br>**Through K-means cluster algorithm I cleaned and seperated the specific cases from the database, which have very-similar neighborhoods around them. Etobicoke is a popular destination for newcomers to Canada. Therefore, it is one of the most diverse and diverse areas in the Greater Toronto Area, and the home to various religious groups and places of worship.**<br/>
