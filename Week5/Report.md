@@ -11,7 +11,7 @@
 <br>Foursquare is a database of more than 105 million places worldwide and an API that enables location data for Apple, Samsung, Microsoft, Tencent, Snapchat, Twitter, Uber, and others.The app provides personalized recommendations of places to go near a user's current location based on the user’s previous visits, likes and check-in history.For this project, we use this api to gather the sources we want and use its powerful database to form my conclusion.<br/>
 <br>The data retrieved from Foursquare contained information of venues within a specified distance of the longitude and latitude of the postcodes. The information obtained per venue as follows: **Neighborhood(Name and position) & Venue(Name and position) & Nearby stores**<br/>
 <br>**Map of Toronto** (Spot stands for barrio)<br/>
-https://github.com/deepmoss192/capstoneassignment/blob/main/Week5/MouseInc%20172459.png
+github.com/deepmoss192/capstoneassignment/blob/main/Week5/MouseInc%20172459.png
 ### Clustering Approach:
 <br>To compare the similarities between the two cities, we decided to explore the neighborhoods, subdivide them, and group them to find similar neighborhoods in big cities like New York and Toronto. In order to do this, we need to cluster data, which is a form of unsupervised machine learning k-means clustering algorithm<br/>
 <br>**Using K-Means Clustering Approach**<br/>
