@@ -15,11 +15,10 @@
 ### Clustering Approach:
 <br>To compare the similarities between the two cities, we decided to explore the neighborhoods, subdivide them, and group them to find similar neighborhoods in big cities like New York and Toronto. In order to do this, we need to cluster data, which is a form of unsupervised machine learning k-means clustering algorithm<br/>
 <br>**Using K-Means Clustering Approach**<br/>
-![MouseInc%20184555.png](attachment:MouseInc%20184555 .png)
+![Image](https://github.com/deepmoss192/capstoneassignment/raw/main/Week5/MouseInc%20184555.png)
 <br>**Most common venues near Neighborhood (With latitude and longitude)** 
-
-![MouseInc%20190436.png](attachment:MouseInc%20190436.png)
+![Image]https://github.com/deepmoss192/capstoneassignment/raw/main/Week5/MouseInc%20190436.png
 ### Conclusion
 <br>Map of Clusters in Etobicoke<br/>
-![MouseInc%20191242.png](attachment:MouseInc%20191242.png)
-**Through K-means cluster algorithm I cleaned and seperated the specific cases from the database, which have very-similar neighborhoods around them. Etobicoke is a popular destination for newcomers to Canada. Therefore, it is one of the most diverse and diverse areas in the Greater Toronto Area, and the home to various religious groups and places of worship.**
+![Image]https://github.com/deepmoss192/capstoneassignment/raw/main/Week5/MouseInc%20191242.png
+<br>**Through K-means cluster algorithm I cleaned and seperated the specific cases from the database, which have very-similar neighborhoods around them. Etobicoke is a popular destination for newcomers to Canada. Therefore, it is one of the most diverse and diverse areas in the Greater Toronto Area, and the home to various religious groups and places of worship.**<br/>
